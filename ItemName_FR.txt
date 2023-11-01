@@ -1,0 +1,8 @@
+ItemName_FR = {
+	ItemName_Base.NewTershLootableMap = "Carte de New Tersh",
+	ItemName_CustomTV.BoxTV = "Télévision cathodique",
+	ItemName_CustomTV.LargeTV = "Grand téléviseur Premium Technologies",
+	ItemName_CustomTV.SmallTV = "Petite télévision",
+	ItemName_CustomTV.WallMountedBox = "Télévision murale",
+	ItemName_CustomTV.WallMountedTV = "Télévision murale",
+}
